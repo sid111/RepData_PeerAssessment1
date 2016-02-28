@@ -1,8 +1,5 @@
 ---
-title: "Reproducible Research First Assignment"
-output: 
-  html_document:
-    keep_md: true
+
 ---
 > ## Introduction
 > 
