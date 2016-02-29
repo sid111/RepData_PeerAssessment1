@@ -48,7 +48,7 @@ sapply(packages, require, character.only=TRUE, quietly=TRUE)
 Unzip the data file.
 
 ```{r}
-executable <- file.path("C:", "Program Files", "WinRAR", "Rar.exe")
+executable <- file.path("C:", "Program Files", "WinRAR", "WinRAR.exe")
 parameters <- "x"
 f <- file.path(getwd(), "activity.zip")
 switch <- "-aoa"
